@@ -827,10 +827,10 @@
 							</item>
 					<item>
 		<title>blog-post-2</title>
-		<link>http://wptrees.com/primaapp/nam-rutrum-pellentesque-euismod/blog-post-2/</link>
+		<link>https://raw.githubusercontent.com/hasanprima/primaapp-import/master/blog-post-2.jpg/</link>
 		<pubDate>Mon, 19 Aug 2019 13:05:54 +0000</pubDate>
 		<dc:creator><![CDATA[WPTrees]]></dc:creator>
-		<guid isPermaLink="false">http://wptrees.com/primaapp/wp-content/uploads/sites/2/2019/08/blog-post-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/hasanprima/primaapp-import/master/blog-post-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1254,7 +1254,7 @@ This e-mail was sent from a contact form on PrimaApp (http://wptrees.com/primaap
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":57,"align":"left","width":275,"height":183} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="http://wptrees.com/primaapp/wp-content/uploads/sites/2/2019/08/blog-post-2-1024x683.jpg" alt="" class="wp-image-57" width="275" height="183"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://raw.githubusercontent.com/hasanprima/primaapp-import/master/blog-post-2.jpg" alt="" class="wp-image-57" width="275" height="183"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
